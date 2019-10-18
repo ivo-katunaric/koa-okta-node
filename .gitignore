@@ -1,0 +1,5 @@
+.idea
+node_modules
+src/images/uploads
+src/recognition/last-uploaded
+POST.md
